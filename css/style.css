@@ -372,10 +372,12 @@ html {
   background-repeat: no-repeat;
 }
 .exp_card .logo_img.dyna {
+  background-image: url(../images/common/logo01.png);
   width: 110px;
   height: 147px;
 }
 .exp_card .logo_img.bg {
+  background-image: url(../images/common/logo02.png);
   width: 287px;
   height: 58px;
 }
